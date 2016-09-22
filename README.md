@@ -1,4 +1,4 @@
-th the enormous amount of data surrounding us, it is important to be able to extract the most important information from it. In this notebook, we focus on one such information extraction algorithm from text. 
+With the enormous amount of data surrounding us, it is important to be able to extract the most important information from it. In this notebook, we focus on one such information extraction algorithm from text. 
 
 Broadly speaking, there are two different approaches for summarizing text: 1) extractive summarization, where the summary is lifted verbatim from the document itself and 2) abstractive summarization, where the summary is not a part of the document but is synthesized de novo by a learning model. 
 
