@@ -10,4 +10,5 @@ Here, I approach text summarization from an extractive viewpoint, tackling two s
 
 To answer these questions, I implement TextRank - a graph-based algorithm that ranks text in a document based on the importance of the text. TextRank is analogous to Google's PageRank and was introduced by Mihalcea and Tarau in the paper [TextRank: Bringing Order into Texts](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf).
 
-TextRank is an unsupervised learning algorithm and much simpler to implement as compared to abstractive summarization and yet yields good Recall-Oriented Understudy for Gisting Evaluation (ROUGE) scores. 
+TextRank is an unsupervised learning algorithm and much simpler to implement as compared to abstractive summarization and yet yields good Recall-Oriented Understudy for Gisting Evaluation (ROUGE) scores.
+
