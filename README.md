@@ -18,4 +18,8 @@ TextRank is an unsupervised learning algorithm and much simpler to implement as 
   <img src="https://github.com/spookyQubit/TextRank/blob/master/images/Sentences_2.PNG" width="795" height="450"/>
 </p>
 
+<br></br>
 
+<p align="center">
+  <img src="https://github.com/spookyQubit/TextRank/blob/master/images/Keywords_2.PNG" width="795" height="450"/>
+</p>
