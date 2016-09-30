@@ -13,7 +13,6 @@ To answer these questions, I implement TextRank - a graph-based algorithm that r
 TextRank is an unsupervised learning algorithm and much simpler to implement as compared to abstractive summarization and yet yields good Recall-Oriented Understudy for Gisting Evaluation (ROUGE) scores.
 
 <br></br>
-<br></br>
 
 <p align="center">
   <img src="https://github.com/spookyQubit/TextRank/blob/master/images/Sentences_2.PNG" width="395"/>
